@@ -1,5 +1,8 @@
 # Border Gif Drawer
 
+![](https://github.com/vrrusso/border-draw-gif/teste10.jpg)
+
+
 This is a simple toy project built upon a assignmet from my programing introduction classes. Given an image in PGM(text mode), it will use a naive flood and fill algorithm to segment the
 image, so it will find the borders between the zones and produce a little gif animation drawing this borders.
 
