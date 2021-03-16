@@ -1,6 +1,6 @@
 # Border Gif Drawer
 
-![](https://github.com/vrrusso/border-draw-gif/teste10.jpg)
+![](https://github.com/vrrusso/border-draw-gif/blob/master/teste10.jpg)![](https://github.com/vrrusso/border-draw-gif/blob/master/borders.gif)
 
 
 This is a simple toy project built upon a assignmet from my programing introduction classes. Given an image in PGM(text mode), it will use a naive flood and fill algorithm to segment the
@@ -21,3 +21,7 @@ make
  ```C
  make run IN=descriptor_filename
  ```
+
+## Special Thanks
+Example images, descriptors and assignment idea provided by Moacir Ponti.
+Special thanks to Guilherme Amaral Hiromoto, who co-coded this little toy project
