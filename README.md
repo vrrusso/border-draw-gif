@@ -24,4 +24,4 @@ make
 
 ## Special Thanks
 Example images, descriptors and assignment idea provided by Moacir Ponti.
-Special thanks to Guilherme Amaral Hiromoto, who co-coded this little toy project
+Special thanks to Guilherme Amaral Hiromoto(guilhermehiromoto on github), who co-created this little toy project.
